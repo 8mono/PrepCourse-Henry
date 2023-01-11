@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio para modulo 2 
+Esto es una prueba para el modulo 2.
